@@ -35,12 +35,10 @@ public class Test {
         
           System.out.println("Os números " + multi3 + " são multiplos de 3");  
           System.out.println("Os números " + par + " são pares");  
-          System.out.println("Os números " + impar + "são impares");  
+          System.out.println("Os números " + impar + "são impares");
     }
 
-    public static void main(String[] args) {
-        
-    }
+
 
 
 }

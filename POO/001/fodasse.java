@@ -14,7 +14,10 @@ public class fodasse{
 
         Integer pgt = teclado.nextInt();
         
-        System.out.println("pgt");
+        System.out.println(pgt);
+
+        if (pgt == 1 );
+            double preco =
 
 
     }
